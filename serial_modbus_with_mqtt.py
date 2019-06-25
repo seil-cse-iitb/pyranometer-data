@@ -17,7 +17,6 @@ MQTT_TOPIC_PUB_PSOC = "test_data/kresit/psoc/"
 
 client = mqtt.Client(MQTT_CLIENT)
 
-
 IO_SENSOR1_DATA = 5
 IO_RAW_SENSOR1_DATA = 6
 IO_BODY_TEMPERATURE = 8
